@@ -1,0 +1,3 @@
+- Give the test.csv and train.csv as the input files for this sentiment analysis for the Twitter data project.
+- The project is in the format of .ipynb which can be executed in the Jupyter Notebook.
+- The algorithms such as SVM may take a longer time to execution which is completely dependent on the system gpu. If you encounter any dead kernels while executing please try to restart the kernel patiently or compile the code in ONline compilers such as google collab which contains in-built gpu.
